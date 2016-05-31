@@ -1,7 +1,7 @@
 # GCM
 __Google Web Push / Google Cloud Messaging (GCM) with Encryption__
 
-_A quickly hacked Java example how to use Google Cloud Messaging with Payload (i.e. Encryption)_
+_A quickly hacked Java example how to use Google Cloud Messaging with Payload (i.e. Encryption). Expect this to live until Google release an official library (as promised...)_
  
  Based on instructions from Google and all credits should go there:
  
